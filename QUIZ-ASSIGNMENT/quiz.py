@@ -7,7 +7,7 @@ def questions():
     # list of questions and answers
     questions_and_answers = [
         ("How many dots appear on a pair of dice?\nA: 45\nB: 42\nC: 39", "b"),
-        ("What is the tallest type?\nA: Oakwoods\nB: Sprucewood\nC: Redwoods","c"),
+        ("What is the tallest tree type?\nA: Oakwoods\nB: Sprucewood\nC: Redwoods","c"),
         ("What is acrophobia a fear of?\nA: Speeds\nB: Heights\nC: Spiders", "heights"),
         ("Which year did the Titanic sink in the Atlantic Ocean?\nA: 1912\nB: 1909\nC: 1920", "a"),
         ("Which was Disney's first movie?\nA: Cinderella\nB: Tangled\nC: Snow White", "c"),
