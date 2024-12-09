@@ -169,9 +169,3 @@ def BestOf():
 
 # Run the Best of Selection screen
 BestOf()
-
-#
-#
-# Test commit
-#
-#
