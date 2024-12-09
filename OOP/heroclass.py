@@ -4,3 +4,6 @@ class Superhero():
         self.identity = identity
         self.power = power
         self.arch_enemy = arch_enemy
+    
+    def introduce():
+        print(f"Hi, my name is {self.identity}, although you probably know me as {self.name}. My superpower is {self.power} and my arch-nemesis is {self.arch_enemy}.")
