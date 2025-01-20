@@ -19,7 +19,7 @@
     </div>
     {% for todo in todo_list %}
     <div>
-        <p>{{ todo.id }} : {{ todo.task }} : {{ todo.complete }}</p>
+        <p>{{ todo.id }}. {{ todo.task }}</p>
         {% if todo.complete == false %}
             <p class="incomplete">Task Incomplete. <a href="/update/{{todo.id }}"> Mark as complete?</a></p>
         {% else %}
