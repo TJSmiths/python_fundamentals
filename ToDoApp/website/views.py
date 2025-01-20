@@ -1,5 +1,4 @@
 from flask import Blueprint, render_template, request, redirect, url_for
-from flask_sqlalchemy import SQLAlchemy
 from .models import Todo
 from . import db
 
